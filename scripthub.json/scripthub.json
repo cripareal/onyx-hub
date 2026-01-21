@@ -2,2737 +2,2895 @@
   "games": [
     {
       "name": "Universal",
-      "description": "Roblox game: Universal",
-      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOFumCVRAZbLgcLJjgItmkW10ytqze0wwww&s",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Keyboard Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GGH52lan/GGH52lan/main/keyboard.txt\"))()",
+          "has_key_system": false
+        },
+        {
+          "name": "MOLYN DEVELOPMENT | KEYLESS!!!!",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-MOLYN-DEVELOPMENT-63669\"))()",
           "has_key_system": false,
-          "enabled": true
+          "note": "ScriptBlox - 192749 views"
         },
         {
           "name": "Chat Bypass",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AlgariBot/lua/refs/heads/Lua-Script-Executor/LocalNeverPatchedBypass.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Venox Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/venoxcc/venoxV1/main/main.lua'))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Cobalt",
           "script": "loadstring(game:HttpGet(\"https://github.com/notpoiu/cobalt/releases/latest/download/Cobalt.luau\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Infinity Yield",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Dex V3 Mobile",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/realredz/DEX-Explorer/refs/heads/main/Mobile.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Consist AA",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/fa7744edafa5ca5119f10992e24084df/raw/095257d975c3b0d6b679e7f20f0bce42fc6c9131/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Desire Hub",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/e579fe881681a79d46a81a63405496aa/raw/4abbeae77037bdd8934d69f8cdeaaee53ac078f6/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Remote Spy Mobile",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/realredz/SimpleSpy/refs/heads/main/Mobile.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Low GFX",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/zQUqDRdJ\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Shiftlock",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mc4121ban/Source/refs/heads/main/Universal_Shiftlock_No_Disappear_after_die.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Ken Fe Emote",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/2cd020407f741e42a186c53b05dd4d0e/raw/8c01b851ad9c8ef81910bfe9f61bfdf49c50712a/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Aimbot-1",
           "script": "loadstring(game:HttpGet(\\\\\\\\\\\\\\\"https://raw.githubusercontent.com/RobloxMasterAyla/UniversalAimbot/refs/heads/main/Aimbot2Universal.lua\\\\\\\\\\\\\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "MoreUNC",
           "script": "loadstring(game:HttpGet(\\\\\\\\\\\\\\\"https://gist.githubusercontent.com/NewWhitelistService/38dc9fc272285d0409bcffc5bc3fab9f/raw/763cb9a156f4194158b7298f9e2a35a5e4000b9e/gistfile1.txt\\\\\\\\\\\\\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "BlaZe",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/ScriptCentral-br/HUB/refs/heads/main/HUB.md\\\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Hydroxide",
           "script": "local owner = \"Upbolt\"\nlocal branch = \"revision\"\n\nlocal function webImport(file)\n    return loadstring(game:HttpGetAsync((\"https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua\"):format(owner, branch, file)), file .. '.lua')()\nend\n\nwebImport(\"init\")\nwebImport(\"ui/main\")",
+          "has_key_system": false
+        },
+        {
+          "name": "DrakthonHub keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-DrakthonHub-50024\"))()",
           "has_key_system": false,
-          "enabled": true
+          "note": "ScriptBlox - 544731 views"
+        },
+        {
+          "name": "XVC Hub 170 Games Keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-XVC-Hub-170-Games-Keyless-58593\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 2177708 views"
         }
-      ]
+      ],
+      "description": "Roblox game: Universal",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOFumCVRAZbLgcLJjgItmkW10ytqze0wwww&s",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
-      "name": "Escape Tsunami for Brainrots",
-      "description": "Roblox game: Escape Tsunami for Brainrots",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-425190812e4f81a37050f479ddc7ce69/768/432/Image/Webp/noFilter",
-      "placeId": "131623223084840",
-      "gameId": null,
+      "name": "Escape Tsunami For Brainrots!",
       "scripts": [
+        {
+          "name": "Rat Hub X",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-Rat-Hub-X-84016\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 4866 views"
+        },
+        {
+          "name": "Nova Hub X",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-Nova-Hub-X-85719\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 2969 views"
+        },
+        {
+          "name": "script no key",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-best-script-83194\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 5776 views"
+        },
+        {
+          "name": "best god mod beta and more open source",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-best-god-mod-beta-and-more-open-source-85995\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 5031 views"
+        },
+        {
+          "name": "Bypass Tsunamis Keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-Op-script-inf-money-84019\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 4375 views"
+        },
+        {
+          "name": "Inf Speed And More Best Script For Game Rn",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-Inf-Speed-And-More-Best-Script-For-Game-Rn-80970\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 2793 views"
+        },
+        {
+          "name": "ONhub | no key",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-ONhub-86951\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 2565 views"
+        },
+        {
+          "name": "ETFB gui (xeno support)",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Escape-Tsunami-For-Brainrots!-Auto-destroy-tsunamis-85456\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 2366 views"
+        },
         {
           "name": "AUTO TP",
           "script": "loadstring(game:HttpGet(\"https://files.catbox.moe/evdfch.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "merithhub",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/d4AuiF9E\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Blessed Hub X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mynamewendel-ctrl/Blessed-Hub-X-/refs/heads/main/Escape%20Tsunami%20For%20Brainrots.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "ErrorServerHub",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/ErrorServer-Hub/7a5d38c94a14cde6fef46c6821b49f3e/raw/71d19a369878a387cc97ce6bb5200ac4703a7c67/ErrorServerHubAllGame.lua.\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "esfb script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/veilhub/veil/refs/heads/main/escapetsunamiforbrainrots.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Casual Hub",
           "script": "loadstring(game:HttpGet(\"https://api.junkie-development.de/api/v1/luascripts/public/d9ae31e0dc92da000fbf5bc65c1153ff708ba943a506827f40aec008685f208e/download\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-754ef874827c6f7f38a3901d4558c4ed/480/270/Image/Png/noFilter",
+      "placeId": "131623223084840",
+      "gameId": "6957738915942ffdefb51204"
     },
     {
       "name": "Pet Simulator 99",
-      "description": "Roblox game: Pet Simulator 99",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-25b77b4cb49ae9390a08b111a6bff20c/768/432/Image/Webp/noFilter",
-      "placeId": "8737899170",
-      "gameId": null,
       "scripts": [
         {
           "name": "ZapHub",
           "script": "loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "PS99 Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptsForDays/PS99/main/LOADER\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Pet Simulator 99",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-25b77b4cb49ae9390a08b111a6bff20c/768/432/Image/Webp/noFilter",
+      "placeId": "8737899170",
+      "gameId": "null"
     },
     {
       "name": "Dandys World",
-      "description": "Roblox game: Dandys World",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-75cff8339b035e9a7a81651214471639/768/432/Image/Webp/noFilter",
-      "placeId": "16116270224",
-      "gameId": null,
       "scripts": [
+        {
+          "name": "Catty Hub DW V11",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Dandy's-World-ALPHA-Catty-Hub-DW-V11-31883\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 877347 views"
+        },
+        {
+          "name": "OP script",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Dandy's-World-ALPHA-OP-script-16354\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 534359 views"
+        },
+        {
+          "name": "OP Script I Reupload",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Dandy's-World-ALPHA-OP-Script-I-Reuploading-19052\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 447206 views"
+        },
         {
           "name": "Dandys World Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Usher5048/Usher5048/refs/heads/main/dw.lua\"))();",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "flyxohub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/flyxo-2/hub/refs/heads/main/flyxohub.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "pleiadex hub",
           "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Dandy's-World-ALPHA-Auto-Skillcheck-And-More-58732\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-63a91c55122cfc11e901a89bef1ed71a/480/270/Image/Png/noFilter",
+      "placeId": "16116270224",
+      "gameId": "67e5e1ffb360710ec3c77d1e"
     },
     {
-      "name": "Scary Shawarma Kiosk",
-      "description": "Roblox game: Scary Shawarma Kiosk",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-876e01c55f5e2f4fdf7ebb66e492c6fa/768/432/Image/Webp/noFilter",
-      "placeId": "137826330724902",
-      "gameId": null,
+      "name": "Scary Shawarma Kiosk: the ANOMALY [horror]",
       "scripts": [
         {
           "name": "Algeria hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/africanfaris/Algeria-hub/refs/heads/main/Scary%20shawarma%20kiosk\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "ExploitingisFUN",
           "script": "loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/wBNEkpigM0J1y5lV/raw', true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "NEOX HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader\", true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
+        },
+        {
+          "name": "Shawarma anomaly Script Keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Scary-Shawarma-Kiosk:-the-ANOMALY-horror-Shawarma-anomaly-Script-Keyless-75606\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 7478 views"
+        },
+        {
+          "name": "Shawarma script keyless D4rk",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Scary-Shawarma-Kiosk:-the-ANOMALY-horror-Shawarma-script-keyless-D4rk-76176\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1518 views"
+        },
+        {
+          "name": "Praixe hub supports all PC & Mobile executors",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Scary-Shawarma-Kiosk:-the-ANOMALY-horror-Praixe-hub-Best-script-80610\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 612 views"
+        },
+        {
+          "name": "Shawarma script keyless D4rk",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Scary-Shawarma-Kiosk:-the-ANOMALY-horror-Shawarma-script-keyless-D4rk-76176\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1518 views"
+        },
+        {
+          "name": "Anomaly Detection",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Scary-Shawarma-Kiosk:-the-ANOMALY-horror-Anomaly-Detection-74828\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 5032 views"
+        },
+        {
+          "name": "PhiPhaiv2",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Scary-Shawarma-Kiosk:-the-ANOMALY-horror-PhiPhaiv2-74725\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 2874 views"
         }
-      ]
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-e06135a0b83e461cc529a9ecf713dd77/480/270/Image/Png/noFilter",
+      "placeId": "137826330724902",
+      "gameId": "693d8fc3d9a0d1f6b3021957"
     },
     {
       "name": "99 Nights in Forest",
-      "description": "Roblox game: 99 Nights in Forest",
-      "icon_url": "https://media.discordapp.net/attachments/1399096302310264962/1399096302435832001/noFilter_33123.webp?ex=68be77b8&is=68bd2638&hm=87e0f91c44bc213572144a66bfbcc32a0d90586c13dde97f5d5cabbeedf8942a&=",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Voidware PRIVATE cracked",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vividx07/cracks/refs/heads/main/voidware/main.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Bring Items, Kill Aura - keyless",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/80aed6b06a7e38e8260a1b82638ff65b.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Diamond Farm",
           "script": "loadstring(game:HttpGet(\"https://rifton.top/scripts/OneClick.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "EXERIUM ",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Valak542/99Nights/refs/heads/main/99NightsV1',true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Soluna",
           "script": "loadstring(game:HttpGet(\"https://soluna-script.vercel.app/99-Nights-in-the-Forest.lua\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "LINUX",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LinuxDevBr/99-Nights-In-the-Forest/refs/heads/main/Script.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "H4xScripts",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/H4xScripts/Loader/refs/heads/main/loader.lua\", true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "no key script ",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Voidware",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Frostware Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tribeo999/FrostWare./refs/heads/main/99Night.txt\"))()",
+          "has_key_system": false
+        },
+        {
+          "name": "BEST KEYLESS SCRIPT!",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-KEYLESS-Best-Script-for-99-Nights-in-the-Forest-53093\"))()",
           "has_key_system": false,
-          "enabled": true
+          "note": "ScriptBlox - 1783044 views"
+        },
+        {
+          "name": "Free  Godmode  Keyless TP Items Auto Kill Walkspeed",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-Free-Godmode-Keyless-TP-Items-Auto-Kill-Walkspeed-55885\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1324122 views"
+        },
+        {
+          "name": "Autofarm Diamonds",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-Autofarm-Diamonds-59592\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 875518 views"
+        },
+        {
+          "name": "God mode auto strong hold auto win best script auto beds",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-CANDY-FARM-100K-PER-SECOND-63660\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 557642 views"
+        },
+        {
+          "name": "Foxname Hub keyless inf saplings godmod and etc",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-Foxname-Hub-keyless-inf-saplings-godmod-and-etc-65467\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 669012 views"
+        },
+        {
+          "name": "FourHub No Key Esp Teleports Auto Tree And More",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-No-Key-Esp-Teleports-Auto-Tree-And-More-65592\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 656934 views"
+        },
+        {
+          "name": "Lumin Hub | BETA + NEW UI",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-FURNITURE-OP-SCRIPT-KILL-ALL-45237\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 342407 views"
+        },
+        {
+          "name": "Infinite Health",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-Infinite-Health-53186\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1698895 views"
+        },
+        {
+          "name": "Free  Godmode  Keyless TP Items Auto Kill Walkspeed",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-Free-Godmode-Keyless-TP-Items-Auto-Kill-Walkspeed-55885\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1324122 views"
         }
-      ]
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-65eebaac747ed81ff9dfdc85643a1e12/480/270/Image/Png/noFilter",
+      "placeId": "79546208627805",
+      "gameId": "68437b38a7d0bed5d5235e5c"
     },
     {
       "name": "Steal A Brainrot",
-      "description": "Roblox game: Steal A Brainrot",
-      "icon_url": "",
-      "placeId": "109983668079237",
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Rift",
           "script": "loadstring(game:HttpGet(\"https://rifton.top/loader.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "VS HUB",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/4J8q1GQk/raw\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "STEAL A BRAINROT SCRIPT",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fcc63f5f04efa9a6a85d6f16a179b870.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Ronix Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fda9babd071d6b536a745774b6bc681c.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Nagi Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hehehe9028/Nagi-hub-steal-a-brainrot/refs/heads/main/Nagi%20hub%20steal%20a%20brainrot\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Union",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/amorestar/shitcode/refs/heads/main/steal%20a%20brainrot%20union.lua\"))() ",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Cobra Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/705e9a93cc18214fb77ab95686a8dba9.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "OMG HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Arbix Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/ArbixHubBEST.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "brainrot spawner",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hehehe9028/LAWSHUB-brainrot-spawner/refs/heads/main/LAWSHUB%20brainrot%20spawner%20visual\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "VEXHUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ainsxley/VEXHUB/refs/heads/main/VEXHUB\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Greatness Hub",
           "script": "loadstring(game:HttpGet(\"https://greatnesssloader.vercel.app/api/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
+        },
+        {
+          "name": "KEYLESS TRUE THE BEST  SCRIPT CHILLI HUB",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Steal-a-Brainrot-KEYLESS-TRUE-THE-BEST-STEAL-A-BRAINROT-SCRIPT-45137\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 863905 views"
+        },
+        {
+          "name": "KEYLESS 50 PLUS FEATURES GUI * KEN HUB *",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Steal-a-Brainrot-KEYLESS-30-PLUS-FEATURES-GUI-45053\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 138778 views"
+        },
+        {
+          "name": "Steal brainrot",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Steal-a-Brainrot-Steal-brainrot-41993\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 150070 views"
+        },
+        {
+          "name": "Best Keyless Script Op",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Steal-a-Brainrot-Steal-A-Brainrot-Best-Keyless-Script-Op-45187\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 115934 views"
+        },
+        {
+          "name": "[RELEASE] | Best Brainrot ESP",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Steal-a-Brainrot-Best-Brainrot-ESP-52742\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 173787 views"
         }
-      ]
+      ],
+      "description": "Roblox game: Steal A Brainrot",
+      "icon_url": "",
+      "placeId": "109983668079237",
+      "gameId": "null"
     },
     {
       "name": "Find the Brainrot",
-      "description": "Roblox game: Find the Brainrot",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-cdfa505631edb5fcc823fce528b04812/768/432/Image/Webp/noFilter",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Auto Collect",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xxdaysheus01/RuneX/refs/heads/main/Find%20the%20Brainrot.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Space Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Space-RB/Script/refs/heads/main/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "haze.wtf",
           "script": "loadstring(game:HttpGet(\"https://haze.wtf/api/script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Peachy Hub",
           "script": "loadstring(game:HttpGet(\"https://api.junkie-development.de/api/v1/luascripts/public/d37435894c260e0200d7c0cee1c5a4aea45602edb3ee1fa3c37726e2fe857ad5/download\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Find the Brainrot",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cdfa505631edb5fcc823fce528b04812/768/432/Image/Webp/noFilter",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Dig to Escape",
-      "description": "Roblox game: Dig to Escape",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-8ca25c84d817b9d5ba74ae8d4512e40f/768/432/Image/Webp/noFilter",
-      "placeId": "92122513197996",
-      "gameId": null,
       "scripts": [
         {
           "name": "Auto Win",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/gS9WFmKI/raw\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Auto Dig and Auto Pull Items",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ArtChivegroup/Roblox/refs/heads/main/script/dig-to-escape.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "dig to escape sc",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/7dQ10kqS/raw\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Dig to Escape",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8ca25c84d817b9d5ba74ae8d4512e40f/768/432/Image/Webp/noFilter",
+      "placeId": "92122513197996",
+      "gameId": "null"
     },
     {
-      "name": "Fish It!",
-      "description": "Roblox game: Fish It!",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-b10ac4076f2ee701f272b8dbebac70d4/256/256/Image/Webp/noFilter",
-      "placeId": "121864768012064",
-      "gameId": null,
+      "name": "[✨UPD] Fish It! 🐟",
       "scripts": [
+        {
+          "name": "Silentscripts Leak Source",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/EVENT-Fish-It!-Silentscripts-Leak-Source-57202\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 515781 views"
+        },
+        {
+          "name": "KrakenWare Keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Fish-It!-KrakenWare-Keyless-67442\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1259224 views"
+        },
+        {
+          "name": "BEST FISH IT SCRIPT UNDETECTED BEST FEATURES",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPD-Fish-It!-BEST-FISH-IT-SCRIPT-UNDETECTED-BEST-FEATURES-64759\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 494024 views"
+        },
+        {
+          "name": "KrakenWare Keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Fish-It!-KrakenWare-Keyless-67442\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1259224 views"
+        },
+        {
+          "name": "BEST FISH IT SCRIPT UNDETECTED BEST FEATURES",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPD-Fish-It!-BEST-FISH-IT-SCRIPT-UNDETECTED-BEST-FEATURES-64759\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 494024 views"
+        },
+        {
+          "name": "Fish It Best script for farming Space Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPD-Fish-It!-Fish-It-Best-script-for-farming-Space-Hub-62138\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 79656 views"
+        },
+        {
+          "name": "OP XEMON FISH IT",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Fish-It!-OP-XEMON-FISH-IT-64483\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 75448 views"
+        },
         {
           "name": "Edhub V4",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Eddy23421/EdHubV4/refs/heads/main/fish%20it!\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "FourHub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/jokerbiel13/FourHub/refs/heads/main/FishIt.lua\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "rift",
           "script": "loadstring(game:HttpGet(\"https://rifton.top/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Stree Hub",
           "script": "loadstring(game:HttpGet(\"https://pandadevelopment.net/virtual/file/36a1d4513a0ce188\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "void hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/coldena/voidhuba/refs/heads/main/voidhubload\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Auto Farm",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nisulrocks/Fish-It/refs/heads/main/Main\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SYXHUB ",
           "script": "loadstring(game:HttpGet(\"https://api.junkie-development.de/api/v1/luascripts/public/f9ecec6fa3ba4e7717a62cc0c25915644ad4ad7a01b09afb77a42226210884d7/download\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "NOCTIS ",
           "script": "loadstring(game:HttpGet(\"https://houseofnoctis.lol/loader\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Madbuk",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nobody6969696969/Madbuk/refs/heads/main/loader.lua\", true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1a5a1325243c65c29f3e9ceea5666475/480/270/Image/Png/noFilter",
+      "placeId": "121864768012064",
+      "gameId": "67e5e1ffb360710ec3c78132"
     },
     {
       "name": "Fisch",
-      "description": "Roblox game: Fisch",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-07f4c74a8e33d1c4e106cf89271a1573/768/432/Image/Webp/noFilter",
-      "placeId": "16732694052",
-      "gameId": null,
       "scripts": [
         {
           "name": "Lee Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScripterLeeSeungHyun/fischscript/refs/heads/main/script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Hidden Hub(25ms crack)",
           "script": "loadstring(game:HttpGet(\"https://you.whimper.xyz/hiddenFisch\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Fryzer Hub",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/EkpA7awJ\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Reaper Hub(25ms)",
           "script": "loadstring(game:HttpGet(\"https://you.whimper.xyz/reaperhub\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "keyless script",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/sc0LMHkh/raw\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Naoki Hub",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/64f25823cf81b31ad5651fd800edb6d5/raw/b720ae9a327e82b8fbb5136b9ecf4d8447ee8e80/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Bonk Hub (crack)",
           "script": "loadstring(game:HttpGet(\"https://github.com/venoxcc/universalscripts/raw/refs/heads/main/plato_n_bonk\",true))()()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Cuppink",
           "script": "loadstring(game:HttpGet(\"https://you.whimper.xyz/sources/CupPink/fisch.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Aquilon",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/aquilon/refs/heads/main/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Solix Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Ronix Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/44adfe7769cacad2acec4df8459212f0.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Kiciahook",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Bacon Boss Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBossScript/Fisch/refs/heads/main/Fisch\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Speed X Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Alchemy Hub",
           "script": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "nixius.xyz",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/nixius\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/d55784ae31e8df2b290c9a2119d4524c/raw/dadc2a94322e7d60778084506d58816f797f9586/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Nicuse",
           "script": "loadstring(game:HttpGet(\\\"https://nicuse.xyz/MainHub.lua\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Lucifer",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Senpai1997/Scripts/refs/heads/main/FischSenpaiHub.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Fisch",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-07f4c74a8e33d1c4e106cf89271a1573/768/432/Image/Webp/noFilter",
+      "placeId": "16732694052",
+      "gameId": "null"
     },
     {
       "name": "The Forge",
-      "description": "Roblox game: The Forge",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-c8d5b065c72279ce1ec2e60a23e8f3cb/768/432/Image/Webp/noFilter",
-      "placeId": "76558904092080",
-      "gameId": null,
       "scripts": [
         {
           "name": "DP HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/COOLXPLO/DP-HUB-coolxplo/refs/heads/main/TSB.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "pepehook",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GiftStein1/pepehook-loader/refs/heads/main/loader.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "LAZY HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LioK251/RbScripts/refs/heads/main/lazyuhub_theforge.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "airflow",
           "script": "loadstring(game:HttpGet(\"https://airflowscript.com/loader\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "CATRAZ HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nurvian/Catraz-HUB/refs/heads/main/Catraz/main.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "NEOX HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Haze",
           "script": "loadstring(game:HttpGet(\"https://haze.wtf/api/script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "ATG Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ATGFAIL/ATGHub/main/The-Forge.lua'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SpeedHub",
           "script": "loadstring(game:HttpGet(\"https://api.junkie-development.de/api/v1/luascripts/public/5f93a35edc77083b7969ecc401eb79312930770ae7c18e3063ccb3b35807e9d1/download\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kaisenlmao/loader/refs/heads/main/chiyo.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "ExploitingisFUN ",
           "script": "loadstring(game:HttpGet('https://cdn.exploitingis.fun/loader', true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "NS HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/sh/refs/heads/main/a\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: The Forge",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c8d5b065c72279ce1ec2e60a23e8f3cb/768/432/Image/Webp/noFilter",
+      "placeId": "76558904092080",
+      "gameId": "null"
     },
     {
       "name": "NFT Battle",
-      "description": "Roblox game: NFT Battle",
-      "icon_url": "https://adaw.cpm",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "REVENGE HUB",
           "script": "--[[\nHappy using!\n]]\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/volmaksDev/My-Scripts/refs/heads/main/nftbattle.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: NFT Battle",
+      "icon_url": "https://adaw.cpm",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Hypershot",
-      "description": "Roblox game: Hypershot",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-a206d7fbb6d82c2a4b0341f09977558f/256/256/Image/Webp/noFilter",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Polluted Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/c9f7b2cda8460f26a85bc14a419b3513.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Reaper",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/herobrine29302/zephyr/refs/heads/main/Reaper.GG-Hypershot\",true))()\n",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Syrex Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Joshingtonn123/JoshScript/refs/heads/main/Syrexhubhypershot'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Hypershot",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a206d7fbb6d82c2a4b0341f09977558f/256/256/Image/Webp/noFilter",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "The Strongest Battlegrounds",
-      "description": "Roblox game: The Strongest Battlegrounds",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-85755b822cee060522bc974f98924350/256/256/Image/Webp/noFilter",
-      "placeId": "10449761463",
-      "gameId": null,
       "scripts": [
         {
           "name": "Senpai Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Senpai1997/Scripts/refs/heads/main/SenpaihubTheStrongestBattlegroundsAimlockAutoblock.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Kukuri Client",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mikasuru/Arc/refs/heads/main/Arc.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Zenon Hub",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/gbwEzNX4/raw\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "NS HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HenSeu87PofghYT/ALL-IN-ONE/main/NSHUBV2\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
+        },
+        {
+          "name": "Tsb Farm Script 2K Per Hour Auto Farm Legit",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-Strongest-Battlegrounds-Tsb-Farm-Script-2K-Per-Hour-Auto-Farm-Legit-37042\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 499955 views"
+        },
+        {
+          "name": "TSB",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-Strongest-Battlegrounds-TSB-7421\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 378432 views"
+        },
+        {
+          "name": "KJ Moveset By Tombul Oranda so its me",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-Strongest-Battlegrounds-KJ-Moveset-By-Tombul-Oranda-so-its-me-30853\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 358960 views"
+        },
+        {
+          "name": "KadeHub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-Strongest-Battlegrounds-KadeHub-16735\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 327037 views"
         }
-      ]
+      ],
+      "description": "Roblox game: The Strongest Battlegrounds",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-85755b822cee060522bc974f98924350/256/256/Image/Webp/noFilter",
+      "placeId": "10449761463",
+      "gameId": "null"
     },
     {
       "name": "Prospecting",
-      "description": "Roblox game: Prospecting",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-666d2f14dc11c548bab648177e2ab174/128/128/Image/Webp/noFilter&w=32&q=75",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "keyless script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DOITZ9/game/refs/heads/main/Prospecting.luau\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Synthora Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Wenarch/Library/refs/heads/main/Script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Pxntxrez Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Pxntxrez/NULL/refs/heads/main/obfuscated_script-1753991814596.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Prospecting",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-666d2f14dc11c548bab648177e2ab174/128/128/Image/Webp/noFilter&w=32&q=75",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Grow A Garden",
-      "description": "Roblox game: Grow A Garden",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Speed Hub X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Ronix Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/7d8a2a1a9a562a403b52532e58a14065.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Lunor Hub",
           "script": "loadstring(game:HttpGet('https://lunor.dev/loader'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "keyless GAG",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/MjContiga1/8e10b49446162fef7d39d09bc335ca02/raw/a4c20e428e0bd1d9ec4a63d5faa51a6933ae7770/Olokbilat.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "bring all and auto farm all and trees",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/SPQT6v5J\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "BRING ITEMS, KILL AURA",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/jUZY0DEq\", true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Koronis",
           "script": "loadstring(game:HttpGet(\"https://koronis.xyz/hub.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Grow A Garden",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Brookhaven",
-      "description": "Roblox game: Brookhaven",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Starkiel Scripts",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/779dd8aa7f55f7234271cf9de8b976cc/raw/6550092fe1374d2ed73090f4b7c6432b08e05749/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Slowed Hub",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/baa08f88fd8484720f32bfab549ed143/raw/1f086e75cffd35f46dce5b35feca30f14955d92e/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "PREMIUM unlock",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/5fXAzICf/raw\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Axomic ",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/adamowaissi22-boop/Axom-Scripts-/refs/heads/main/Axomic%20Brookhaven%20script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "RESH HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Rikisnkiy/RESH-HUB-Made-with-Rikinskiy-Brookhaven-Pack/refs/heads/main/Brookhaven%20pack.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Project Yoda",
           "script": "loadstring(game:HttpGet(\"https://api.junkie-development.de/api/v1/luascripts/public/8b5174946c76ba81d5c374bd4a69f7694d10c837e37522a04c91b2b32991e20e/download\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "THUNDER CLIENT V2",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KarystonDev/THUNDER-CLIENTT/refs/heads/main/THUNDER%20CLIENT\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Brookhaven",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
-      "name": "Blox Fruit",
-      "description": "Roblox game: Blox Fruit",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
+      "name": "[🌐] Blox Fruits",
       "scripts": [
         {
           "name": "Cut Tay Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/diemquy/CutTayHub/main/Cuttayhubreal.lua'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "KY HUB",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/9dzhsuMy\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Speed Hub X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Than Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "RO HUB",
           "script": "loadstring(game:HttpGet(\"https://rohub.gg/script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "AnDepZai Updated",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/AnDepZaiHubNewUpdated.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Dat TNG",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LuaCrack/DatThg/refs/heads/main/DatThgV2\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Solix Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/meobeo8/a/a/a\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "HoHo Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ascn123/HOHO_H/main/Loading_UI'))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Xero Hub",
           "script": "getgenv().Hide_Menu = false; loadstring(game:HttpGet(\"https://apixerohub.x10.mx/main.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Redz Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "W Azure",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua\"))()",
+          "has_key_system": false
+        },
+        {
+          "name": "Best Free Script",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Blox-Fruits-Best-Free-Script-7047\"))()",
           "has_key_system": false,
-          "enabled": true
+          "note": "ScriptBlox - 635953 views"
+        },
+        {
+          "name": "Best Free Script Adel Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Blox-Fruits-Best-Free-Script-Adel-Hub-7342\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 481761 views"
+        },
+        {
+          "name": "Script auto farm level auto update open source",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Blox-Fruits-Script-auto-farm-level-auto-update-open-source-8701\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 326389 views"
+        },
+        {
+          "name": "*ka Hub       Find Mirage",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/GHOST-Blox-Fruits-Cokka-Hub-Find-Mirage-9327\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 320639 views"
+        },
+        {
+          "name": "Night Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/GHOST-Blox-Fruits-Night-Hub-9326\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 315851 views"
+        },
+        {
+          "name": "Min Gaming Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Blox-Fruits-Min-Gaming-Hub-17342\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 287343 views"
+        },
+        {
+          "name": "Mango Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Mango-Hub-6540\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 1599331 views"
+        },
+        {
+          "name": "FREE XIBA HUB V3 OP",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/GHOST-Blox-Fruits-FREE-XIBA-HUB-V3-OP-9202\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 1359406 views"
+        },
+        {
+          "name": "Project Meow [Fixed]",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Project-Meow_421\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 914108 views"
         }
-      ]
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-9562aea76052b8e6690596750b666b26/480/270/Image/Png/noFilter",
+      "placeId": "2753915549",
+      "gameId": "67e5e1ffb360710ec3c77d17"
     },
     {
       "name": "Forsaken",
-      "description": "Roblox game: Forsaken",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-4c6f597a0c641f9a7e776638361d0da6/768/432/Image/Webp/noFilter",
-      "placeId": "18687417158",
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Syran Hub",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/zJ4arsz9\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Sigmasaken Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/sigmaboy-sigma-boy/refs/heads/main/StaminaSettings.ESP.PIDC.raw'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Lumin Hub",
           "script": "loadstring(game:HttpGet(\"https://lumin-hub.lol/loader.lua\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Overflow",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OverflowBGSI/Overflow/refs/heads/main/loader.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Box Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/souyanen/Fsscripts/refs/heads/main/Forsaken\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Alchemy Hub",
           "script": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Era Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fdbac487b2e7ceafb89f7c26351fddb6.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "RINGTA HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/wefwef127382/forsakenloader.github.io/refs/heads/main/RINGTABUBLIK.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Raycast",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/91c6dfe22c95d53d4e053f61ee531f29.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "OP FEATURES",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/d5ed1fbd4301b1d18d75153c5b47181d.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "VoidWare",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/forsaken.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "keyless sc",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aknelnofun6/forsakenscr/main/main.lua'))()",
+          "has_key_system": false
+        },
+        {
+          "name": "milestone 3 punch and block animations changer",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPDATE-Forsaken-milestone-3-punch-and-block-animations-changer-55604\"))()",
           "has_key_system": false,
-          "enabled": true
+          "note": "ScriptBlox - 3148107 views"
+        },
+        {
+          "name": "Keyless auto-gen, reach, autoblock + more",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/G666-Forsaken-Keyless-auto-gen-reach-autoblock-+-more-63283\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 324899 views"
+        },
+        {
+          "name": "Fake Guest Block",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPDATE-Forsaken-Fake-Guest-Block-55520\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1909376 views"
+        },
+        {
+          "name": "voidware keyless OP11i111i1i1ii1i1i1",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Slasher-Forsaken-Forsaken-voidware-keyless-OP11i111i1i1ii1i1i1-53150\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 239458 views"
+        },
+        {
+          "name": "voidware keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Slasher-Forsaken-forsaken-voidware-keyless-51176\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 221131 views"
         }
-      ]
+      ],
+      "description": "Roblox game: Forsaken",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-4c6f597a0c641f9a7e776638361d0da6/768/432/Image/Webp/noFilter",
+      "placeId": "18687417158",
+      "gameId": "null"
     },
     {
       "name": "Volleyball Legends",
-      "description": "Roblox game: Volleyball Legends",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-bf8b367a46fcbe4258f0b96f90991d11/768/432/Image/Webp/noFilter",
-      "placeId": "73956553001240",
-      "gameId": null,
       "scripts": [
         {
           "name": "new volleyball",
           "script": "loadstring(game:HttpGet(\"https://api.junkie-development.de/api/v1/luascripts/public/f0063a5cee1b9be341277b76d13da3fcfa6a1ab575869697d069263ae27f51bb/download\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Xenith Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v4/loaders/d7be76c234d46ce6770101fded39760c.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Sigma Hub",
           "script": "loadstring(game.HttpGet(game, 'https://raw.githubusercontent.com/Xm2iufas09ijmF/sigma-hub/refs/heads/main/temp.lua'))('Enjoy no key or ads! :)')",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "RIft",
           "script": "loadstring(game:HttpGet(\"https://rifton.top/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Volleyball Legends",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-bf8b367a46fcbe4258f0b96f90991d11/768/432/Image/Webp/noFilter",
+      "placeId": "73956553001240",
+      "gameId": "null"
     },
     {
       "name": "Plants Vs Brainrots",
-      "description": "Roblox game: Plants Vs Brainrots",
-      "icon_url": "https://imgs.search.brave.com/5bXZFwYuBsRnhLWQJaHXtpBu8BuQLr-6IWOE-53wVwE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Bs/YW50cy12cy1icmFp/bnJvLXRzL2ltYWdl/cy82LzZlL1BsYW50/cy1Wcy1CcmFpbnJv/dHMtRGlzY29yZC1z/ZXJ2ZXIud2VicC9y/ZXZpc2lvbi9sYXRl/c3Qvc2NhbGUtdG8t/d2lkdGgtZG93bi8x/ODA_Y2I9MjAyNTEw/MDMxOTEyNDM",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Veydra Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VeydraHub/PlantsVsBrainrots/refs/heads/main/PVB-MainReplicator.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "OP auto farm not patched",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zzxzsss/zxs/refs/heads/main/singles/psb.lua\"))()\n",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "KEYLESS",
           "script": "loadstring(game:HttpGet(\"https://gitlab.com/r_soft/main/-/raw/main/LoadUB.lua\"))() ",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Plants Vs Brainrots",
+      "icon_url": "https://imgs.search.brave.com/5bXZFwYuBsRnhLWQJaHXtpBu8BuQLr-6IWOE-53wVwE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Bs/YW50cy12cy1icmFp/bnJvLXRzL2ltYWdl/cy82LzZlL1BsYW50/cy1Wcy1CcmFpbnJv/dHMtRGlzY29yZC1z/ZXJ2ZXIud2VicC9y/ZXZpc2lvbi9sYXRl/c3Qvc2NhbGUtdG8t/d2lkdGgtZG93bi8x/ODA_Y2I9MjAyNTEw/MDMxOTEyNDM",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Blue Lock Rivals",
-      "description": "Roblox game: Blue Lock Rivals",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "uh idk name",
           "script": "loadstring(game:HttpGet(('https://pastefy.app/5i2DScDc/raw'),true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Cruz",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Yopapa7/Yopapa7/refs/heads/main/Uweueuue\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Arbix Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Youifpg/ArbixHubV1/refs/heads/main/Source.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "tbao hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/game/refs/heads/main/TbaoHubBlueLockRivals\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "NS Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/fo/refs/heads/main/ot\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/027f073a56684a2334e50883c5d5eb55/raw/07c0dcae7c2804a072702fb1efc31c9cdc7aeed8/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Pulse Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/sources/pulsehub_load\\\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Unknown Name",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "1",
           "script": "loadstring(game:HttpGet(('https://pastefy.app/lbLVUm8Z/raw'),true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Blue Lock Rivals",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Muscle Legends",
-      "description": "Roblox game: Muscle Legends",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Speed X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Muscle Legends",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Flick",
-      "description": "Roblox game: Flick",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-fa0a2f08a9688bd2892e26bb468e7e79/768/432/Image/Webp/noFilter",
-      "placeId": "136801880565837",
-      "gameId": null,
       "scripts": [
         {
           "name": "Aether Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dementiaenjoyer/homohack/main/pf_lite.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Flick",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-fa0a2f08a9688bd2892e26bb468e7e79/768/432/Image/Webp/noFilter",
+      "placeId": "136801880565837",
+      "gameId": "null"
     },
     {
       "name": "Saber Showdown",
-      "description": "Roblox game: Saber Showdown",
-      "icon_url": "https://cdn.discordapp.com/attachments/1413120339386568906/1413120339554336879/noFilter.webp?ex=68bebadf&is=68bd695f&hm=3fd1c98db171d0c2484fabe7a2ddf5f2b7ed7cc166994989cff0b0f049b81b23&",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Xemon Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/phareignxd/xemonscripts/refs/heads/main/xemonsabershowdownb\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Saber Showdown",
+      "icon_url": "https://cdn.discordapp.com/attachments/1413120339386568906/1413120339554336879/noFilter.webp?ex=68bebadf&is=68bd695f&hm=3fd1c98db171d0c2484fabe7a2ddf5f2b7ed7cc166994989cff0b0f049b81b23&",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Bed Wars",
-      "description": "Roblox game: Bed Wars",
-      "icon_url": "https://cdn.discordapp.com/attachments/1399075693488242808/1399075693589172234/noFilter_6.webp?ex=68be6486&is=68bd1306&hm=849638d0336a49e1deaa5e4d85de47b85aeefcd4e11df93fe077dbd6fd38b167&",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "APE CLIENT",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sus237/Ape/main/NewMainScript.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Rust",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0xEIite/rust/main/NewMainScript.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "CAT VAPE",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/new-qwertyui/CatV5/refs/heads/main/init.lua'), 'init.lua')()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "NIGHT",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/null-wtf/Night/refs/heads/main/Night/Loader.luau\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "VAPE V4",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "AlSploit",
           "script": "loadstring(game:HttpGet('https://r2.packetroblox.xyz/alsploit.lua'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Voidware Packet",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VWPacket/main/NewMainScript.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Voidware Rewrite",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VWRewrite/main/NewMainScript.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Bed Wars",
+      "icon_url": "https://cdn.discordapp.com/attachments/1399075693488242808/1399075693589172234/noFilter_6.webp?ex=68be6486&is=68bd1306&hm=849638d0336a49e1deaa5e4d85de47b85aeefcd4e11df93fe077dbd6fd38b167&",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Jailbreak",
-      "description": "Roblox game: Jailbreak",
-      "icon_url": "https://tr.rbxcdn.com/180DAY-cd69b8cd92a4512bca8aad2cb3b826d4/768/432/Image/Webp/noFilter",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Jailbreak Airdrop and CEO sc",
           "script": "loadstring(game:HttpGet(\"https://pandadevelopment.net/virtual/file/fc6412630bc2ce66\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "VYLERA HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/VyleraJailBreak.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Bionic",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nonsenseontop/KeyforgeScripts/refs/heads/main/KeyForgeLoaderV1\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "JAILBREAK AUTO FARM",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/BlitzIsKing/UniversalFarm/main/Loader/Regular'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Astral",
           "script": "loadstring(game:HttpGet(\"https://astral.gay/loader.luau\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Project Auto V6 Autofarm",
           "script": "loadstring(game:HttpGet('http://scripts.projectauto.xyz/AutoRobV6'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Farm Hub",
           "script": "loadstring(game:HttpGet(\"https://jeannie.gold/FarmHub.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Jailbreak",
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cd69b8cd92a4512bca8aad2cb3b826d4/768/432/Image/Webp/noFilter",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Build A Plane",
-      "description": "Roblox game: Build A Plane",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Unlock all, fastest money bloodcoins and dust farm",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Eliott-M2/main.github.io/refs/heads/main/KeyLoader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "INF money, kick players",
           "script": "loadstring(game:HttpGet(\"https://pastefy.app/WLmIdeAp/raw\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "kali hub",
           "script": "loadstring(game:HttpGet('https://kalihub.xyz/loader.lua'))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Build A Plane",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Adopt Me",
-      "description": "Roblox game: Adopt Me",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "ZekeHUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RagesploitX/Main-Script/refs/heads/main/Main/script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Gingerbread Farm & Pet Farm",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/eeeiqjj876y/adoptme.github.io/refs/heads/main/ringta.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Instant Hatch Egg And Instant Mega",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/jazzedd/JazradScript/refs/heads/main/Script\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "AUSSIE HUB",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/jazzedd/AussieHub/refs/heads/main/AdoptMe\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Adopt Me",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Grace",
-      "description": "Roblox game: Grace",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Grace",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Dead Rails",
-      "description": "Roblox game: Dead Rails",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Dead Rails",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "BGSI",
-      "description": "Roblox game: BGSI",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: BGSI",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Ink Game",
-      "description": "Roblox game: Ink Game",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Ink Game",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Testing Baseplate",
-      "description": "Roblox game: Testing Baseplate",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Testing Baseplate",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Sol RNG",
-      "description": "Roblox game: Sol RNG",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Bacon Boss Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBossScript/SolRNG/main/SolRNG\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Sol RNG",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Doors",
-      "description": "Roblox game: Doors",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Mspaint V2",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/25669bfc9bab4881b3e7336baa2be91a/raw/44b4d0ee6ad1ef19259a05f8c807cecd764e9421/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Unknown",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/RBXDM/adde759b8fd563c7947a08a42afd8287/raw/23deda00bec54f42e00d14ea2643b44d35daef1c/Sciptmode\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Blacking & BobHub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DarkDoorsKing/Doors/main/Main\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Doors",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Funky Friday",
-      "description": "Roblox game: Funky Friday",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Fire Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/InfernusScripts/Null-Fire/main/Loader\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/6a072c6ce14e9ebe1a5ee6925078569c/raw/3996ed42f01d3f0cfd7f7a8c6d8107f279aa1cc7/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Rael Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\\\")()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Funky Friday",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "The 1M$ Glass Bridge",
-      "description": "Roblox game: The 1M$ Glass Bridge",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Xploiter",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xUnfazedFade/RBLX/refs/heads/main/Nahbruh.lua.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: The 1M$ Glass Bridge",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Bee Swarm Simulator",
-      "description": "Roblox game: Bee Swarm Simulator",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Bacon Boss Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBossScript/BeeSwarmSim/main/BeeSwarmSim\"))()",
+          "has_key_system": false
+        },
+        {
+          "name": "Kron Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Bee-Swarm-Simulator-Kron-Hub-20936\"))()",
           "has_key_system": false,
-          "enabled": true
+          "note": "ScriptBlox (Verified) - 399793 views"
+        },
+        {
+          "name": "Ez Hub [Open Source] [150+ games]",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Ez-Hub_168\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 4411672 views"
+        },
+        {
+          "name": "Macro V3",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Bee-Swarm-Simulator-Macro-V3-10149\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox (Verified) - 607168 views"
+        },
+        {
+          "name": "Macroware Hub - Beesmas Ready Most Powerful Script",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Bee-Swarm-Simulator-Macroware-Hub-48300\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox (Verified) - 206945 views"
+        },
+        {
+          "name": "unfair Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-unfair-Hub-3936\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 4412059 views"
         }
-      ]
+      ],
+      "description": "Roblox game: Bee Swarm Simulator",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Bypass",
-      "description": "Roblox game: Bypass",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Adonis",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Bypass",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Vision",
-      "description": "Roblox game: Vision",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/9683bacf3a21630c03c6773aa8e6ed3f/raw/fdb39e15854cfcbfa9d058e9089ccc37964ffcec/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Vision",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Murder Mystery 2",
-      "description": "Roblox game: Murder Mystery 2",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Eclipse Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Murder Mystery 2",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "PS99",
-      "description": "Roblox game: PS99",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Reaper Hub (25ms)",
           "script": "loadstring(game:HttpGet(\"https://you.whimper.xyz/reaperhub\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Speed X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: PS99",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "TSB",
-      "description": "Roblox game: TSB",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Speed X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Broly Cracked",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/Crackable/refs/heads/main/ea\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Reaper Hub(25ms)",
           "script": "loadstring(game:HttpGet(\"https://you.whimper.xyz/reaperhub\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Bacon Boss Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBossScript/TSB/main/TSB\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/1985c0daa7b3d340585a25cff9db067a/raw/6a6ce5dfaf47ad275e8b2eb1cfc7384d8238834e/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Oni Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Onihub-sigma/OniHub-Revived/refs/heads/main/Protected_2046521569211555.txt\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Jun (Wisp)",
           "script": "getgenv().BetterGraphics = true\\\\\\\\ngetgenv().sendChat = true\\\\\\\\nloadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Mc4121ban/Source/refs/heads/main/omg%20ratter.lua.creck\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Nicuse",
           "script": "loadstring(game:HttpGet(\\\"https://nicuse.xyz/MainHub.lua\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: TSB",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Anime AdventureS",
-      "description": "Roblox game: Anime AdventureS",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Sjw Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NhatMinhVNQ/w-hub/main/WORLDHUB.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Anime AdventureS",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "BF But very good",
-      "description": "Roblox game: BF But very good",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Arbix Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Youifpg/Blox-fruit-but-very-good/refs/heads/main/Suii.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Solynot",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBABA/script/refs/heads/main/bloxgood.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: BF But very good",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Pet Go",
-      "description": "Roblox game: Pet Go",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Speed X Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Pet Go",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Animal Simulator",
-      "description": "Roblox game: Animal Simulator",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Auto Farm",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/open-source/refs/heads/main/animal%20simulator%20afk%20farm.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Lt Fruit",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kokojoscripts/LT-FRUITS-UPDT/main/1.9\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Wolf Script",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/CrowzScripts/AnimalSim/refs/heads/main/WolfScript\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Animal Simulator",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Anime Realms",
-      "description": "Roblox game: Anime Realms",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Imp Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Anime Realms",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Tower Of Hell",
-      "description": "Roblox game: Tower Of Hell",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Starry",
           "script": "getgenv().ignoreGameCheck = false;\nloadstring(game:HttpGet(\"https://luau.tech/build\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Project L V2",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/Main.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Tower Of Hell",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Dahood Fake",
-      "description": "Roblox game: Dahood Fake",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Xrge",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/Crackable/refs/heads/main/Xgre.lol\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Trust.lua",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mc4121ban/skidscript/refs/heads/main/trust.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Jamkles.lua",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxSkids/Loader/refs/heads/main/Jamkles.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Blatant.cc Leak",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vxyo/RevNigga/refs/heads/main/FreeForeverBlatantCC\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "ACE",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Totocoems/Acetesters/refs/heads/main/testers\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Frost.lol",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/iamtocoflorfopkf/hu/refs/heads/main/README.md\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Psalms Lite",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/l/refs/heads/main/psalms%20old.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Khen.cc",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/khen791/script-khen/refs/heads/main/khen.cc%20v1.2.txt\", true))();",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "BalliWare V4",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/bc7698e62d298396a8294fcbd877948c/raw/48d16952eda6df02167754bff996eef4ed5a5d87/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Index.cc",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VorisKh2011/yes/refs/heads/main/index\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "skidder.cc",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/Script/refs/heads/main/loader.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Failurty.CC",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/Script/refs/heads/main/Failurty.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Azure Modded",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "bladlock",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sdfesdfsedf/srgtergasdfs/main/wwwwwww\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Extort V5",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/l/refs/heads/main/Exortv5%20(2).txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Aura X Remake",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/k0nkx/Aura-x-skid-ez-remake-by-k0nkx/main/Sigma\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Starhook",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mc4121ban/skidscript/main/starhook.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Xastro",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Skibidisigma9/XastroUwU/main/Xastroskidded\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Serial.XYZ",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/375f24571709de4d749ca8c2b83a9682/raw/d64f25f2d58fc9916155865f992dc7f49416165d/gistfile1.txt\"))();loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/dc2af415c8d44937c5ea2038f6bb88c6/raw/536140cfba01e3b99339318d1b2948a7a45267b6/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Skibidi.Hook",
           "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/SvLaydLR\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Deposit",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/9c5ec58dc38cf8ec60e539a77c8524b7/raw/0bc9f047551e044a25526fd0002eaaed6313f0b5/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Varx",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/l/refs/heads/main/varx%20(1).txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Affinity",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NewWhitelistService/l/refs/heads/main/AffinityV1src.lua%20(1).txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Dahood Fake",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Please Donate",
-      "description": "Roblox game: Please Donate",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Szze",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Please Donate",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Build a Boat For Treasure",
-      "description": "Roblox game: Build a Boat For Treasure",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Auto Build",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/0cab1cb4f30eb9e973c62f5ac9966f02/raw/d4a123d16ef3bfd54b232f6e0997051aad4ad8fd/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "ProjectTRSH",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/BlueScriptsAndDies/ProjectTrashBuildABoat/refs/heads/main/main.lua\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Build a Boat For Treasure",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Break In 2",
-      "description": "Roblox game: Break In 2",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Starry",
           "script": "getgenv().ignoreGameCheck = false;\nloadstring(game:HttpGet(\"https://luau.tech/build\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Break In 2",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Bedwars",
-      "description": "Roblox game: Bedwars",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Aurora",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cocotv666/Aurora/main/Aurora_Loader\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Vape V4",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Smoke X",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SmokeXDev/SmokeXClient/main/Loader.lua\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Bedwars",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Shrimp Game",
-      "description": "Roblox game: Shrimp Game",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Shrimp game(Pc)",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/d9542bb3baa8b15d030b4365ef79b32f/raw/fa31e36767de44915b4535992618052ba7d2a927/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Shrimp Game Script",
           "script": "_G.Theme = \\\"Dark\\\";loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/ShrimpGame.lua\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "MoonX",
           "script": "(loadstring or load)(game:HttpGet(\\\"https://raw.githubusercontent.com/MateoDev2024/MoonX/refs/heads/main/Loader.lua\\\"))('More scripts: t.me/arceusxscripts')",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Lunatic Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/PixelMeta/-/refs/heads/main/game.shrimp'))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Dd-Hub",
           "script": "loadstring(game:HttpGet(\\\"https://gist.githubusercontent.com/NewWhitelistService/bf12e78fc971ae33cdb864661aff252b/raw/fdd973f1ea207fa37ded3640694a155370a4664b/gistfile1.txt\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Shrimp Game",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "The Mimic",
-      "description": "Roblox game: The Mimic",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Rael Hub",
           "script": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\")()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: The Mimic",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Anime Defenders",
-      "description": "Roblox game: Anime Defenders",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Nousigi Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/scriptpastebin/raw/main/Nausigi\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Anime Defenders",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Eat the world",
-      "description": "Roblox game: Eat the world",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Sjw Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NhatMinhVNQ/w-hub/main/WORLDHUB.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Eat the world",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Blade Ball",
-      "description": "Roblox game: Blade Ball",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Ronix Hub",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/f2b3338a19b7987d1dd989c53a1e3cb2.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Infernium",
           "script": "loadstring(game:HttpGet(\\\"https://you.whimper.xyz/infernium\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Blade Ball",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Steal Time",
-      "description": "Roblox game: Steal Time",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/80204c19deae66d2617912084da15923/raw/ca57dd63941d0a8e544a192863d2c19aeee122a5/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Steal Time",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Super Soccer League",
-      "description": "Roblox game: Super Soccer League",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/Mc4121ban/f7e2221cfff22523fb9eb1c4d4136009/raw/3d3b911bef4df9af3155fa66bd3032c7154ebf42/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Super Soccer League",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Evade",
-      "description": "Roblox game: Evade",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Tora Script",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/Evade\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Unknown Hub X",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Games/Evade'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Unknown Hub (Keyless)",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/NyekPlohsbxladheyp/GcHakbdlabslrje/refs/heads/Skhsfobsfh/Skbdoabcetere-%7B%7D/Ekavdbaydks-%7B%7D\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Evade",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "SkillFull",
-      "description": "Roblox game: SkillFull",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/9f8e95d2113d21f4e347bca6dda2990f/raw/32c91857c4b3296d6be136e71ef88a3fea089f50/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: SkillFull",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Timber",
-      "description": "Roblox game: Timber",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Butter Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/timber-obfuscated.lua'))(\"\")",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Timber",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Jujusut Infinite",
-      "description": "Roblox game: Jujusut Infinite",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Ns hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/Infinite/refs/heads/main/All\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Jujusut Infinite",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Be NPC or Die",
-      "description": "Roblox game: Be NPC or Die",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "unknown",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/refs/heads/main/BeNpcOrDie\"))('More scripts: t.me/arceusxscripts')",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Be NPC or Die",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Slap Battles",
-      "description": "Roblox game: Slap Battles",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Giang Play",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Giangplay/Slap_Battles/main/Slap_Battles.lua'))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/6c3c658feb429aeb8045015e17c642e9/raw/4c8d9901969b9b9a68a821f29772250b439ac34f/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Slap Battles",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "FTAP",
-      "description": "Roblox game: FTAP",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Blitz (25ms)",
           "script": "loadstring(game:HttpGet(\"https://you.whimper.xyz/blitz\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: FTAP",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Lumber Tycoon 2",
-      "description": "Roblox game: Lumber Tycoon 2",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Butter Hub",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/lt2'))(\"\")",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Luaware",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/frencaliber/scriptsstorage/main/LumberTycoonLW\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Lumber Tycoon 2",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Squid Project",
-      "description": "Roblox game: Squid Project",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Speed Fly Bypass",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/6b0db37d08d0f92b006422b9589e3abf/raw/00515951176db964bad64d2b7a01a33bc0bb1ebf/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Squid Project",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Ultimate Basketball",
-      "description": "Roblox game: Ultimate Basketball",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/cdfbfddfe1255ce72c9edb2971c51add/raw/a6e67a2e9d6aaaaf125af315d96b78c1ba7c1e32/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Ultimate Basketball",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Rivals",
-      "description": "Roblox game: Rivals",
-      "icon_url": "",
-      "placeId": "17625359962",
-      "gameId": null,
       "scripts": [
         {
           "name": "Unlock All",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/QP-Offcial/Roblox/refs/heads/main/UnlockAll.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "venoxware - (best)",
           "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/rivals/venoxware'))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "nova hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vividx07/nova-softworks/refs/heads/main/loader.lua\",true))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "8bit(cracked)",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/venoxcc/c8fb8e394e42898563fceb849e730bf1/raw/db0c01b3f1413aba72c632a9f3b94436ee2d80e4/gistfile1.txt\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "KICIAHOOK",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.luau\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "Tbao Hub (Old)",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/28760702276839f921062816bb9cd1c0/raw/f574bed71ac0e77879fe2d7971c4d93a5c58cd48/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "4444 Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/F1K2/RRRR/refs/heads/main/rivals.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Ronix",
           "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/2136f3786fd368193dd152c435d7ebfb.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "nixius.xyz",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/nixius\",true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "rivals zxbxo",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Mc4121ban/test/refs/heads/main/rivals.lua\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "ZEUS",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/blackowl1231/Z3US/refs/heads/main/main.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
+        },
+        {
+          "name": "Duck Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/RIVALS-Duck-Hub-29794\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 605950 views"
+        },
+        {
+          "name": "Disrupt | SYNAPSE Z ONLY",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/RIVALS-Disrupt-18264\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 210299 views"
+        },
+        {
+          "name": "KEYLESS SILENT AIM MOBILE SUPPORTED ESP OP",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/RIVALS-KEYLESS-SILENT-AIM-MOBILE-SUPPORTED-ESP-OP-83473\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox (Verified) - 2921 views"
         }
-      ]
+      ],
+      "description": "Roblox game: Rivals",
+      "icon_url": "",
+      "placeId": "17625359962",
+      "gameId": "null"
     },
     {
       "name": "Legends Of Speed",
-      "description": "Roblox game: Legends Of Speed",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Echo Ui",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gxslighted/EchoUI/refs/heads/main/Loader.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Script 1",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/WhackyCode/SPEEDDEVIL/main/legendsofspeed.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "idk",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0fflineAdd1ct/CH/main/LegendsOfSpeed.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Project L V2",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/Main.lua\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Legends Of Speed",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Arsenal",
-      "description": "Roblox game: Arsenal",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Quotas Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Insertl/QuotasHub/main/BETAv1\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Expres Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Theyfwdan/Theyfwdan/refs/heads/main/ExpressHubPaidVersion\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Arsenal",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Counter Blox",
-      "description": "Roblox game: Counter Blox",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "SendoX",
           "script": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NewWhitelistService/70a594dcc86f12bb891ace6886e1beee/raw/7fe6f26b4962f4f4c1b6dabba00a34bd718da6e7/gistfile1.txt\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Counter Blox",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Death Ball",
-      "description": "Roblox game: Death Ball",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "God Hub",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Death Ball",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "make and sell car",
-      "description": "Roblox game: make and sell car",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "kaito hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Kaitofyp/Make-and-Sell-Cars/refs/heads/main/Op%20script\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: make and sell car",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "gun ball",
-      "description": "Roblox game: gun ball",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "gun ball",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Mc4121ban/Source/main/GunBall.lua\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: gun ball",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Combat Warriors",
-      "description": "Roblox game: Combat Warriors",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Infernium",
           "script": "loadstring(game:HttpGet(\\\"https://you.whimper.xyz/infernium\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Combat Warriors",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Dig It",
-      "description": "Roblox game: Dig It",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "FrostByte",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/alyssagithub/Scripts/refs/heads/main/FrostByte/Initiate.lua\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         },
         {
           "name": "Beecon Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/BaconBossScript/BeeconHub/main/BeeconHub\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         },
         {
           "name": "neox crack",
           "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/venoxcc/universalscripts/refs/heads/main/neox_crack\", true))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Dig It",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Lootify",
-      "description": "Roblox game: Lootify",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "PanHub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Lootify",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Anime Lootify",
-      "description": "Roblox game: Anime Lootify",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Pan Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Anime Lootify",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Too Many Weapon",
-      "description": "Roblox game: Too Many Weapon",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "PanHub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Too Many Weapon",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Mining GO!",
-      "description": "Roblox game: Mining GO!",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "PanHub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Mining GO!",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Survival Odyssey",
-      "description": "Roblox game: Survival Odyssey",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "PanHub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\\\"))()",
-          "has_key_system": false,
-          "enabled": true
+          "has_key_system": false
         }
-      ]
+      ],
+      "description": "Roblox game: Survival Odyssey",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Obby but you're on a bike",
-      "description": "Roblox game: Obby but you're on a bike",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "XZM Hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/YogaProjectRblx/XAZM-Script-List/refs/heads/main/Obby%20but%20you%20are%20on%20bike.lua.txt\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Obby but you're on a bike",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
     },
     {
       "name": "Haikyuu Legends",
-      "description": "Roblox game: Haikyuu Legends",
-      "icon_url": "",
-      "placeId": null,
-      "gameId": null,
       "scripts": [
         {
           "name": "Ns hub",
           "script": "loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/OhhMyGehlee/vol/refs/heads/main/ball\\\"))()",
-          "has_key_system": true,
-          "enabled": true
+          "has_key_system": true
         }
-      ]
+      ],
+      "description": "Roblox game: Haikyuu Legends",
+      "icon_url": "",
+      "placeId": "null",
+      "gameId": "null"
+    },
+    {
+      "name": "Webbed! [2 Player Obby]",
+      "scripts": [
+        {
+          "name": "Webbed | Acro Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Webbed!-2-Player-Obby-Webbed-acro-hub-42363\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 117660 views"
+        }
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-7a3457c102e21cb7a5d38fa0a9ce4648/480/270/Image/Png/noFilter",
+      "placeId": "132586479415502",
+      "gameId": "684f81806d2cd244aad7f1da"
+    },
+    {
+      "name": "Beaks 🦆",
+      "scripts": [
+        {
+          "name": "| Acro Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Beaks-Acro-hub-beaks-36797\"))()",
+          "has_key_system": true,
+          "note": "ScriptBlox - 160023 views"
+        }
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1f5e1c4dbe813a95f3b704dd0905b09f/480/270/Image/Png/noFilter",
+      "placeId": "122678592501168",
+      "gameId": "680357712e1d529faa28d70e"
+    },
+    {
+      "name": "⛏️ Break a Lucky Block!",
+      "scripts": [
+        {
+          "name": "auto secret and auto god etc keyless",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-auto-secret-and-auto-god-etc-keyless-79924\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 6270 views"
+        },
+        {
+          "name": "Rat Hub X",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-Rat-Hub-X-87509\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 263 views"
+        },
+        {
+          "name": "UPDATED Ultimate Break a Lucky Block Automation Script",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-UPDATED-Ultimate-Break-a-Lucky-Block-Automation-Script-88470\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 52 views"
+        },
+        {
+          "name": "Break a Lucky Block Hit Aura And Auto Pickup Keyless Script",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-Break-a-Lucky-Block-Hit-Aura-And-Auto-Pickup-Keyless-Script-82886\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 2765 views"
+        },
+        {
+          "name": "Op script auto farm",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-Op-script-auto-farm-86453\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1081 views"
+        },
+        {
+          "name": "Max37 Hub",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-Max37-Hub-KEYLESS-85472\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 1049 views"
+        },
+        {
+          "name": "BEST SCRIPT BREAK A LUCKY BLOCK",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-BEST-SCRIPT-BREAK-A-LUCKY-BLOCK-88141\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 433 views"
+        },
+        {
+          "name": "UPDATED BREAK A LUCKY BLOCK AUTOFARM SCRIPT",
+          "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Break-a-Lucky-Block!-UPDATED-BREAK-A-LUCKY-BLOCK-AUTOFARM-SCRIPT-87399\"))()",
+          "has_key_system": false,
+          "note": "ScriptBlox - 430 views"
+        }
+      ],
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a9da7478811635dbf6485dd84ee8770d/480/270/Image/Png/noFilter",
+      "placeId": "124311897657957",
+      "gameId": "69538ad99f586c3415d4e54f"
     }
   ],
-  "last_updated": "2026-01-20T17:47:43.375Z"
+  "last_updated": "2026-01-20T18:33:13.014Z"
 }
